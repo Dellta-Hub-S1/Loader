@@ -1,2 +1,0 @@
-# Loader
-Blox fruit .lua
